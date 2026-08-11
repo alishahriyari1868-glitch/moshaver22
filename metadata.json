@@ -1,0 +1,6 @@
+{
+  "name": "مشاور سرمایه‌گذاری منطقه ۲۲",
+  "description": "پلتفرم هوشمند مشاور سرمایه‌گذاری و ارزیابی ریسک املاک و پیش‌فروش در منطقه ۲۲ تهران (چیتگر، کوهک، مرواریدشهر)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

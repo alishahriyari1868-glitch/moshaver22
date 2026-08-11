@@ -269,6 +269,12 @@ Sitemap: ${host}/sitemap.xml`;
   res.send(robots);
 });
 
+// Google Search Console Verification Endpoint
+app.get('/googleaa7527ddc73c77dc.html', (_req, res) => {
+  res.header('Content-Type', 'text/html');
+  res.send('google-site-verification: googleaa7527ddc73c77dc.html');
+});
+
 // Vite / Production handling
 async function startServer() {
   if (process.env.NODE_ENV !== 'production') {
